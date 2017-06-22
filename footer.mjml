@@ -1,0 +1,7 @@
+<mj-section background-color="#333333" padding="0">
+	<mj-column>
+    <mj-text font-family= "Avenir" font-size="12" color="#ffffff">
+    	CUSEZAR S.A. - Todos los derechos reservados 2017
+    </mj-text>
+  </mj-column>
+</mj-section>
